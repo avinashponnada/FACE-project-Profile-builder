@@ -127,6 +127,7 @@ hr {
 }
 
 #portfolio {
+    background: url(https://i1.faceprep.in/ProGrad/portfolio-background.svg);   
     background: black;
     color: white;
     display: flex;
