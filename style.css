@@ -61,7 +61,7 @@ h4 {
 }
 
 h2 {
-    font-weight: 700;
+    font-weight: 500;
 }
 
 h1 {
@@ -127,8 +127,8 @@ hr {
 }
 
 #portfolio {
-    background: url(https://i1.faceprep.in/ProGrad/portfolio-background.svg);   
-    background: black;
+    background: url(https://i1.faceprep.in/ProGrad/portfolio-background.svg);
+    background-color: black;
     color: white;
     display: flex;
     flex-direction: column;
